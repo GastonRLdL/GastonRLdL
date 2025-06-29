@@ -46,5 +46,5 @@ A developer in training with a solid foundation in C programming and cybersecuri
 ---
 
 📫 **Contact:**  
-[LinkedIn](https://www.linkedin.com/in/gastonjroman/)  
+💼 [LinkedIn](https://www.linkedin.com/in/gastonjroman/)  
 ✉️ gastonrldl@gmail.com  
