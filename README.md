@@ -33,16 +33,7 @@ A developer in training with a solid foundation in C programming and cybersecuri
 
 - [🔧 Libft](https://github.com/GastonRLdL/libft)  
   Reimplementation of basic C standard library functions as a low-level programming exercise.
-
----
-
-### 🚧 Upcoming Projects
-
-- **git-header-manager** — A CLI tool to automate inserting, updating, and validating headers in project files, especially following formats like those used at 42.  
-  Key features: automatic file type detection, header insertion and update with author and date info, user customization, and potential Git hook integration to automate header management on commits.  
-  Planned technologies: Python for easy file and Git handling.  
-  Goal: improve consistency and maintain coding standards effortlessly.
-
+  
 ---
 
 📫 **Contact:**  
